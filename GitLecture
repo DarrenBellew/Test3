@@ -1,0 +1,19 @@
+Terms
+
+--Keep track of all project
+Branch
+--by default, 1 branch is Master Branch
+--A Merge?
+
+Commit is taking a snapshot of project
+
+Commands
+
+pwd  -- working directory
+git init  --initialise Repository
+--Link between remote and loca
+git remote add origin <url>
+git pull origin master
+git branch --branches on this computer, 
+		--EG: Currently on master branch
+ls --Directory Listing
